@@ -10,9 +10,9 @@ This repository implements a Neural Style Transfer (NST) technique, inspired by 
 
 ## Try it on Google Colab
 
-You can quickly run the style transfer process in a Google Colab environment by clicking the button below:
+You can quickly run the style transfer process in a Google Colab environment by clicking the button `Open in Colab`:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HaizeaRL/NEURAL_STYLE_TRANSFER/Neural_Style_Transfer_with_Eager_Execution.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HaizeaRL/NEURAL_STYLE_TRANSFER/blob/develop/Neural_Style_Transfer_with_Eager_Execution.ipynb)
 
 Once opened in Colab, you can upload your avatar and style images and execute the code with a simple click to create your stylized avatar!
 
